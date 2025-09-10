@@ -1,0 +1,4 @@
+Compute the factorial for an integer
+inputs: read an integer from the keyboard or consoleargs
+outputs: a file in this directory with the result of the factorial on the left and the number being executed on on the right
+function: a recursive function with a base case of 0, hopefully tail recursive.

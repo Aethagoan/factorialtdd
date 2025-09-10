@@ -1,0 +1,37 @@
+Requirements: Analyze the problem, understand inputs/outputs.
+    time: 0:4:38.90 - total: 0:4:38.90
+
+Initial List: Write down the scenarios that you plan to test.
+    time: 0:1:56.68 - total: 0:6:35.99
+
+Red: Write failing tests (Red phase).
+    time: 0:5:20.46 - total: 0:11:57.05
+
+Green: Write minimal code to make tests pass (Green phase).
+    time: ~0:1:41.0 - total 0:13:39.45
+
+Red:
+    time: 0:1:18.17 - total 0:14:58.25
+
+Green:
+    time: 0:0:49.27 - total 0:15:47.52
+
+Red:
+    time 0:0:29.58 - total 0:16:17.10
+
+Green:
+    time 0:0:37.10 - total 0:16:54.20
+
+Red right to Green:
+    time 0:0:32.95 - total: 0:17:27.15
+
+Red right to Green:
+    time 0:0:27.45 - total 0:17:54.60
+
+Refactor: Improve code without changing behavior.
+    time: 0:7:50.73 - total 0:25:45.33
+
+Final product:
+    time 0:55:48.94
+
+

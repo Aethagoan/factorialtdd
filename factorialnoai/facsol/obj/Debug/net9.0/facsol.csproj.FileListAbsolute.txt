@@ -1,0 +1,14 @@
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\facsol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\facsol.AssemblyInfoInputs.cache
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\facsol.AssemblyInfo.cs
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\facsol.csproj.CoreCompileInputs.cache
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\bin\Debug\net9.0\facsol.exe
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\bin\Debug\net9.0\facsol.deps.json
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\bin\Debug\net9.0\facsol.runtimeconfig.json
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\bin\Debug\net9.0\facsol.dll
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\bin\Debug\net9.0\facsol.pdb
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\facsol.dll
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\refint\facsol.dll
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\facsol.pdb
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\facsol.genruntimeconfig.cache
+D:\Code\Fall2025code\PersonalSoftwareProcess\PSP ASGkit\factorialnoai\facsol\obj\Debug\net9.0\ref\facsol.dll

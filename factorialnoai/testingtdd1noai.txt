@@ -1,0 +1,6 @@
+test cases:
+- giving a negative number throws an error
+- giving zero gives back 1
+- giving 1 gives back 1
+- giving 2 gives back 2
+- giving 3 gives back 6
