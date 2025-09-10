@@ -1,0 +1,23 @@
+Requirements:
+	~ 2 mins.
+
+List of Test scenarios:
+	1:14.47 (started the timer)
+
+Red:
+	~2 mins - total time: 3:02.08
+
+Green:
+	~40 seconds (forgot to hit the lap button.) - total time 3:48.18
+
+Red - straight to green.
+	1:02.42 - total time 4:49.57
+
+Red:
+	~ 4:45.0 - total time 9:35.27
+
+Red, then Green:
+	4:02.71 - total time 13:37.77
+
+Writing the console program class implementation:
+	6:35.45 - total time 20:13.64

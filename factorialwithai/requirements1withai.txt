@@ -1,0 +1,7 @@
+Requirements:
+1. Must take input from either console arguments or keyboard input.
+2. Computes the factorial of the given number.
+3. Outputs numbers from 0 up to the given number, along with their factorials, to both a text file and the console.
+
+Additional notes:
+Ensure that the program handles invalid inputs gracefully.

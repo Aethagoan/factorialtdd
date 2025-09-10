@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facsol", "facsol\facsol.csproj", "{D0F97119-17F5-67CC-9EE9-1E7287501684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factests", "factests\factests.csproj", "{8AFC5D72-DB94-527D-8BA4-EE636C6988DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F97119-17F5-67CC-9EE9-1E7287501684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F97119-17F5-67CC-9EE9-1E7287501684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F97119-17F5-67CC-9EE9-1E7287501684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F97119-17F5-67CC-9EE9-1E7287501684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFC5D72-DB94-527D-8BA4-EE636C6988DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFC5D72-DB94-527D-8BA4-EE636C6988DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFC5D72-DB94-527D-8BA4-EE636C6988DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFC5D72-DB94-527D-8BA4-EE636C6988DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1213D84C-7947-4848-A92F-E8E1F0F6F6EF}
+	EndGlobalSection
+EndGlobal
